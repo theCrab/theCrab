@@ -1,38 +1,40 @@
 ---
 layout: page
-title: About
+title: Resume
 permalink: /about/
 ---
 ### Hi I am Crab, a software developer based in Lincoln, UK
 
-I'm a full stack web developer, with a focus on backend systems. I worked with a variety of companies: from small startups (Codeship, Divisare and Frēstyl), medium sized companies (Litmus) to enterprise organizations, including UN, highways and television corporations.
+I'm a full stack web developer, with a focus on backend systems. I worked with a variety of companies: from small startups ([Meema Ltd](http://mema.co.uk), [Waddington Taxis](http://waddingtingtontaxis.co.uk) and [Lupa Design](http://lupa-design.com)), medium sized companies [Uniform Direct](http://uniform-direct.com), (Enterprise St. Helena) to enterprise organisations, including Government of St. Helena.
 
 I'm an indie Open Source developer, author of:
 
-- [Hanami]() ‐ a complete web framework for Ruby
-- [Redis::Store]() ‐ HTTP session and cache, I18n and cache stores for Ruby
-- [Hanoi]() ‐ in-browser, automated jQuery testing with QUnit
-- [Minegems]() ‐ private gem hosting deployable on Heroku
-- [assets_packager]() ‐ Rake tasks for web assets deployment
-- [vim-greenbar]() ‐ streamlined TDD with Vim
-- [go-imagesize]() ‐ a Go library to calculate JPEG, PNG and GIF image size
+- [Hanami-Fumikiri]() ‐ a JSON Web Token authentication gem for Hanami Web framework
+- [Hanami-Api]() - an API documentation gem for Hanami
+- [Spree-gocardless]() ‐ a [GoCardless](https://gocardless.com) extension for Spree Commerce, GC is a UK Direct Debit payment processor making life easy for SME and Sole Traders.
 
-I've also contributed to: [Spree Commerce](http://web.com), [Rack](http://web.com) and [redis-rb](http://web.com).
 
-----------
+I've also contributed to: [Spree Commerce](http://web.com), [Rack](http://web.com) and [DataMapper 2](http://web.com).
+
+I founded the **iLinkoln Digital Meetup Group** based in Lincoln. And organised the first ever **hackday** in Lincoln. Besides running the group for almost 3 years.
+
+I have authored a number of iOS apps including:
+
+- [VanMan]() - Help Delivery/Van drivers lower dead mileage by finding them return jobs.
+- [Spota]() - Helps customers find the nearest available taxi driver. Its like Uber.
+- [Spoted]() - The driver-app for accepting jobs booked via **Spota**
+- [Swara]() - Cheapest UK mobile card payment solution
+- [Strop]() - An app for chatting to your mates.
+- [Kutsh]() - Send money via **MPesa** to Kenya, Uganda, Tanzania.
+
+I am in the process of writing the **Android** equivalent of the above apps.
+
+<hr>
 
 ### Hire me, I'm available.
 
 I can help remotely as software engineer and consultant. I can also do on site training for Ruby, Hanami and web development.
 
-Please get [in touch](crab@thecrab.ee).
+Please get [in touch](mailto:crab@thecrab.ee).
 
 From time to time, I publish articles on this site:
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
