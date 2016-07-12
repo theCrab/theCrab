@@ -11,29 +11,6 @@ I have an obsession with clean documented code, am detail oriented, love to test
 
 I <del>love</del> **like** Rails, it makes work, collaboration, testing, moving forward or rolling back not just possible but easier in controlled environments. <del>I am a firm believer in the Rails Manifesto - Conventional over Configuration and DRY (don’t unnecessarily repeat yourself).</del>
 
-### Tools
-- **Languages:** Ruby, MacRuby, Nodejs, Objective-C, Swift
-- **Frameworks:** Mainly Hanami/Roda, Sinatra, Sails, Ruby on Rails in that order
-- **Mobile:** RubyMotion _(for Android too)_, Xcode, Ionic
-- **Testing:** TestUnit, RSpec + Capybara
-- **Prototyping:** Photoshop, Illustrator, Twitter Bootstrap and [UIKIT CSS](http://getuikit.com)
-Javascript/Angular Coffeescript/TypeScript
-- **Databases:** Postgres, SQLite, Mongodb
-- **Technical Architecture and UML:** Linux (Ubuntu mainly), Mac OS X
-Git Version Control
-
-
-### PROFESSIONAL EXPERIENCE
-
-> Most of this involve projects for private companies. Largely they are backend systems, so yeah!
-
-### Some apps from the past (Ruby on Rails)
-- [The Piper](https://)
-- [Bless Africa Tour & Safaris](http://bats.herokuapp.com/) African Safaris and Mt. Kilimanjaro hiking tours.
-- [Enterprise St Helena](http://esthelena.herokuapp.com/) is a platform for foreign investors to find info and help about investing in St. Helena Island commisioned by the Government of St Helena
-- [Fat Pheasant](http://fatpheasant.herokuapp.com/) is a personal CRM for unifying Hotmail, Google, Yahoo and Facebook contacts into one easy place for when you loose your phone. Unfinished
-- [Lincs Piper](http://lincspiper.co.uk/) is a directory like Gumtree. Unfinished personal quest.
-
 ### Tech COMMUNITY CONTRIBUTIONS
 [iLinkoln](http://ilinkoln.org/) *2009-2015 Founder/Organiser*, is a community I founded and still organise for creative people to engage with other professionals in a quest to bridge the old traditional mentality in my city.
 

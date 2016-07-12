@@ -19,7 +19,31 @@ I've also contributed to: [Spree Commerce](http://spreecommerce.com) and [DataMa
 
 I founded the **iLinkoln Digital Meetup Group** based in Lincoln. And organised the first ever **hackday** in Lincoln, besides running the group for almost 3 years.
 
-I have authored a number of iOS apps including:
+### Tools
+- **Languages:** Ruby, MacRuby, Nodejs, Objective-C and Swift
+- **Languages with intermediate proficiency:** Elixir, Go, Redis
+- **Frameworks:** Mainly Hanami/Roda, Sinatra, Sails, Ruby on Rails in that order
+- **Mobile:** RubyMotion _(for Android too)_, Xcode, Ionic
+- **Testing:** TestUnit, RSpec + Capybara
+- **Prototyping:** Photoshop, Illustrator, Twitter Bootstrap and [UIKIT CSS](http://getuikit.com)
+Javascript/Angular Coffeescript/TypeScript
+- **Databases:** Postgres, SQLite, Mongodb
+- **Technical Architecture and UML:** Linux (Ubuntu mainly), Mac OS X
+Git Version Control
+
+
+### Professional experience
+
+> Most of this involve projects for private companies. Largely they are backend systems, so yeah!
+
+#### Some web apps (Ruby on Rails)
+- [Bless Africa Tour & Safaris](http://bats.herokuapp.com/) African Safaris and Mt. Kilimanjaro hiking tours.
+- [Enterprise St Helena](http://esthelena.herokuapp.com/) is a platform for foreign investors to find info and help about investing in St. Helena Island commisioned by the Government of St Helena
+- [Fat Pheasant](http://fatpheasant.herokuapp.com/) is a personal CRM for unifying Hotmail, Google, Yahoo and Facebook contacts into one easy place for when you loose your phone. Unfinished
+- [Lincs Piper](http://lincspiper.co.uk/) is a directory like Gumtree. Unfinished personal quest.
+
+#### Some mobile apps (iOS)
+I have authored a number of **iOS apps** including:
 
 - [VanMan](http://paxiapp.uk/vanman) - Help Delivery/Van drivers lower dead mileage by finding them return jobs.
 - [Spota](http://paxiapp.uk/spota) - Helps customers find the nearest available taxi driver. Its like Uber.
@@ -31,7 +55,7 @@ I have authored a number of iOS apps including:
 I am in the process of writing the **Android** equivalent of the above apps.
 
 ### Education
-I am a student of BA Architecture on a long sabbatical. Since i discovered programming, its taken all my concentration.
+I am still an undergraduate student of BA Architecture &mdash; _currently on a sabbatical_, since discovering software programming, its taken over me.
 <hr>
 
 ### Hire me, I'm available.
