@@ -5,7 +5,7 @@ permalink: /www-footprint/
 ---
 **Last updated May 2016**
 
-I am an experienced Ruby developer with experience developing web services in Ruby on Rails as a freelancer and want more commercial experience. I have a very quick sense of learning, open to learning, always a fool, hungry and flourish in a challenging environment. I have 3 years Rails development experience mainly small to medium sized projects. Before I found Ruby and the community I was a PHP and Web designer.
+I am an experienced Ruby developer with experience developing web services in Ruby on Rails as a freelancer and want more commercial experience. I have a very quick sense of learning, open to learning, always a fool, hungry and flourish in a challenging environment. I have 6 years Rails development experience mainly small to medium sized projects. Before I found Ruby and the community I was a PHP and Web designer.
 
 I have an obsession with clean documented code, am detail oriented, love to test, **ship** and reiterate. I have a preference for open-source tools and progressive software design patterns and writing maintainable code.
 
