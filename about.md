@@ -40,4 +40,4 @@ I can help remotely as software architect and developer. I can also do on site t
 
 Please get [in touch](mailto:mail@ilinkoln.org).
 
-From time to time, I publish articles on http://thecra.github.io
+From time to time, I publish articles on http://thecrab.github.io
