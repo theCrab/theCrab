@@ -5,11 +5,11 @@ permalink: /about/
 ---
 **Hi, I am Nelson (theCrab), a software developer based in Lincoln/London, UK**
 
-I'm a **self-taught** full stack web developer, with a focus on backend systems. I worked with a variety of companies: mostly small startups ([Meema Ltd](http://mema.co.uk), [Waddington Taxis](http://waddingtingtontaxis.co.uk) and [Lupa Design](http://lupa-design.com)), medium sized companies [Uniform Direct](http://uniform-direct.com), (Enterprise St. Helena) to enterprise organisations, including Government of St. Helena.
+I'm a **self-taught** full stack web developer, with a focus on backend systems. I worked with a variety of companies: mostly small startups ([Meema Ltd](http://meema.co.uk), [Waddington Taxis](http://waddingtingtontaxis.co.uk) and [Lupa Design](http://lupa-design.com)), medium sized companies [Uniform Direct](http://uniform-direct.com), (Enterprise St. Helena) to enterprise organisations, including Government of St. Helena.
 
 Languages:- **Ruby** is my main go to (OO) language, **Elixir** is my current interest for Functional.
 
-I'm an indie Open Source developer, author of:
+I'm an indie Open Source dev and contributor, author of:
 
 - [Hanami-Fumikiri](https://github.com/theCrab/hanami-fumikiri) ‐ _WIP_ a JSON Web Token authentication gem for Hanami Web framework
 - [Spree-gocardless](https://github.com/theCrab/spree_gocardless) ‐ a [GoCardless](https://gocardless.com) extension for Spree Commerce, GC is a UK Direct Debit payment processor making life easy for SME and Sole Traders.
@@ -21,15 +21,14 @@ I founded the **iLinkoln Digital Meetup Group** based in Lincoln. And organised 
 ### Tools
 - **Languages:** Ruby, MacRuby, Nodejs, Objective-C and Swift
 - **Languages with intermediate proficiency:** Elixir, Go, Redis
-- **Frameworks:** Mainly Hanami/Roda, Sinatra, Sails, Ruby on Rails in that order
+- **Frameworks:** Mainly Hanami/Roda, Sinatra, Sails, Ruby on Rails
 - **Frameworks with intermediate proficiency:** Phoenix
 - **Mobile:** RubyMotion _(for Android too)_, Xcode, Ionic
 - **Testing:** TestUnit, RSpec + Capybara
 - **Prototyping:** Photoshop, Illustrator, Twitter Bootstrap and [UIKIT CSS](http://getuikit.com)
 Javascript/Angular CoffeeScript/TypeScript
 - **Databases:** Postgres, SQLite, Mongodb
-- **Technical Architecture and UML:** Linux (Ubuntu mainly), Mac OS X
-Git Version Control
+- **Technical Architecture and UML:** Linux (Ubuntu mainly), OS X and Git
 
 
 ### Professional experience
@@ -46,17 +45,17 @@ Git Version Control
 #### Some mobile apps (iOS)
 I have authored a number of **iOS apps** including: _some are personal projects_
 
-- [VanMan](http://paxiapp.uk/vanman) - Help Delivery/Van drivers lower dead mileage by finding them return jobs.
-- [Spota](http://paxiapp.uk/spota) - Helps customers find the nearest available taxi driver. Its like Uber.
+- [VanMan](http://paxiapp.uk/vanman) - Help Delivery drivers reduce dead mileage.
+- [Spota](http://paxiapp.uk/spota) - Almost like Uber.
 - [Spoted](http://paxiapp.uk/spoted) - The driver-app for accepting jobs booked via **Spota**
-- [Swara](http://paxiapp.uk/swara) - Cheapest UK mobile card payment solution
-- [Strop](http://strop.uk/) - An app for chatting to your mates.
-- [Kutsh](http://kutsh.co.ke/) - Send money via **MPesa** to Kenya, Uganda, Tanzania.
+- [Swara](http://paxiapp.uk/swara) - Mobile card payment app
+- [Strop](http://strop.uk/) - Social media chat application
+- [Kutsh](http://kutsh.co.ke/) - **Mobile** remittance
 
 I am in the process of writing the **Android** equivalent of the above apps.
 
 ### Education
-I am still an undergraduate student of BA Architecture &mdash; _currently on a sabbatical_, since discovering software programming, its taken over me.
+Lincoln University &mdash; BA Architecture, *2008-2009*
 <hr>
 
 #### Hire me, I'm available.
