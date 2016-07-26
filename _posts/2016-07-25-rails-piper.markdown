@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rails Piper"
-date:   2016-07-25 15:00:00 +0100
+date:   2017-07-25 15:00:00 +0100
 author: The Crab
 categories: ruby, rails
 ---
