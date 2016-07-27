@@ -31,18 +31,18 @@ Javascript/Angular CoffeeScript/TypeScript
 - **Technical Architecture and UML:** Linux (Ubuntu mainly), OS X and Git
 
 
-### Professional experience
+### Experience
 
 > Most of my work involved projects for private companies/individuals or collaborations. Largely they are backend systems, so yeah!
 
 
-#### Some web apps (Ruby on Rails)
+#### Portfolio (Ruby and Rails) web apps
 - [Bless Africa Tour & Safaris](http://bats.herokuapp.com/) African Safaris and Mt. Kilimanjaro hiking tours.
 - [Enterprise St Helena](http://esthelena.herokuapp.com/) is a platform for foreign investors to find info and help about investing in St. Helena Island commisioned by the Government of St Helena
 - [Fat Pheasant](http://fatpheasant.herokuapp.com/) is a personal CRM for unifying Hotmail, Google, Yahoo and Facebook contacts into one easy place for when you loose your phone. Unfinished
 - [Lincs Piper](http://lincspiper.co.uk/) is a directory like Gumtree. Unfinished personal quest.
 
-#### Some mobile apps (iOS)
+<!-- #### Mobile iOS apps
 I have authored a number of **iOS apps** including: _some are personal projects_
 
 - [VanMan](http://paxiapp.uk/vanman) - Help Delivery drivers reduce dead mileage.
@@ -52,7 +52,7 @@ I have authored a number of **iOS apps** including: _some are personal projects_
 - [Strop](http://strop.uk/) - Social media chat application
 - [Kutsh](http://kutsh.co.ke/) - **Mobile** remittance
 
-I am in the process of writing the **Android** equivalent of the above apps.
+I am in the process of writing the **Android** equivalent of the above apps. -->
 
 ### Education
 Lincoln University &mdash; BA Architecture, *2008-2009*
