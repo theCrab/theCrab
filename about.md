@@ -55,7 +55,7 @@ I have authored a number of **iOS apps** including: _some are personal projects_
 I am in the process of writing the **Android** equivalent of the above apps. -->
 
 ### Education
-Lincoln University &mdash; BA Architecture, *2008-2009*
+Lincoln University &mdash; BA Architecture, *2007-2010*
 <hr>
 
 #### Hire me, I'm available.
