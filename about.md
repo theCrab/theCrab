@@ -3,9 +3,27 @@ layout: page
 title: CV
 permalink: /about/
 ---
-**Hi, I am Nelson (theCrab), a software developer based in Lincoln/London, UK**
+<div class="cv-header clearfix">
+<img src="https://trello-avatars.s3.amazonaws.com/7b1ea085d6709f32cdd3c22098cba7a3/170.png">
+<p>
+  <span class="cv-names">Nelson Kelem (TheCrab)</span> <br>
+  <span class="cv-title">Software Developer</span> <br>
+  <span class="cv-location">Lincoln/London, UK</span>
+  <small class="cv-hireable">Hire me</small>
+</p>
+</div>
+<hr>
+### Career Objective:
+To make an impressive career in a corporate Web based IT organisation where I can show my skills in Ruby on Rails programming to develop more user friendly mobile and web applications.
 
-I'm a **self-taught** full stack web developer, with a focus on backend systems. I worked with a variety of companies: mostly small startups ([Meema Ltd](http://meema.co.uk), [Waddington Taxis](http://waddingtingtontaxis.co.uk) and [Lupa Design](http://lupa-design.com)), medium sized companies [Uniform Direct](http://uniform-direct.com), (Enterprise St. Helena) to enterprise organisations, including Government of St. Helena.
+### Key Skills:
+I'm a full stack web developer, with a focus on backend systems. My key skills include among others:˜
+- Certificate holder programmer in Ruby on Rails Programming
+- 3+ years of experience in RoR programming
+- Thorough involvement in developing 18 web applications
+- Good knowledge of Ruby language
+- Special skills in developing user friendly, simple yet effective web based applications
+- Ability to keep production cost and time to its minimum
 
 Languages:- **Ruby** is my main go to (OO) language, **Elixir** is my current interest for Functional.
 
@@ -32,36 +50,30 @@ Javascript/Angular CoffeeScript/TypeScript
 
 
 ### Experience
+> My experience is mainly drawn from freelancing work and collaborations on Open Source Software projects. Largely they are backend systems.
 
-> Most of my work involved projects for private companies/individuals or collaborations. Largely they are backend systems, so yeah!
-
-
-#### Portfolio (Ruby and Rails) web apps
+#### Ruby and Ruby on Rails apps
 - [Bless Africa Tour & Safaris](http://bats.herokuapp.com/) African Safaris and Mt. Kilimanjaro hiking tours.
 - [Enterprise St Helena](http://esthelena.herokuapp.com/) is a platform for foreign investors to find info and help about investing in St. Helena Island commisioned by the Government of St Helena
 - [Fat Pheasant](http://fatpheasant.herokuapp.com/) is a personal CRM for unifying Hotmail, Google, Yahoo and Facebook contacts into one easy place for when you loose your phone. Unfinished
 - [Lincs Piper](http://lincspiper.co.uk/) is a directory like Gumtree. Unfinished personal quest.
 
-<!-- #### Mobile iOS apps
-I have authored a number of **iOS apps** including: _some are personal projects_
+#### iOS (Objective-C) apps
+- [VanMan](http://paxiapp.uk/vanman) 2016 <!-- - Help Delivery drivers reduce dead mileage. -->
+- [Spota](http://paxiapp.uk/spota) 2016 <!-- - Almost like Uber. -->
+- [Spoted](http://paxiapp.uk/spoted) 2016 <!-- - The driver-app for accepting jobs booked via **Spota** -->
+- [Swara](http://paxiapp.uk/swara) 2016 <!-- - Mobile card payment app -->
+- [Strop](http://strop.uk/) 2016 <!-- - Social media chat application -->
+- [Kutsh](http://kutsh.co.ke/) 2016 <!-- - **Mobile** remittance -->
 
-- [VanMan](http://paxiapp.uk/vanman) - Help Delivery drivers reduce dead mileage.
-- [Spota](http://paxiapp.uk/spota) - Almost like Uber.
-- [Spoted](http://paxiapp.uk/spoted) - The driver-app for accepting jobs booked via **Spota**
-- [Swara](http://paxiapp.uk/swara) - Mobile card payment app
-- [Strop](http://strop.uk/) - Social media chat application
-- [Kutsh](http://kutsh.co.ke/) - **Mobile** remittance
+I am in the process of writing the **Android** equivalent of the above apps.
 
-I am in the process of writing the **Android** equivalent of the above apps. -->
+#### Education
+Lincoln University &mdash; BA Architecture, *2007-2009*
 
-### Education
-Lincoln University &mdash; BA Architecture, *2007-2010*
-<hr>
+#### Strengths and goals
+I can work as software architect or developer. I can also do on-site Ruby on Rails, Hanami web frameworks and frontend web development.
 
-#### Hire me, I'm available.
+My goal is to help in design and development of better UI strategies and simplify solution architecture by using the picking the best solutions for the task and business strategy.
 
-I can help remotely as software architect or developer. I can also do on site Ruby, Hanami Web Framework and web development.
-
-Please get [in touch](mailto:nelson@ilinkoln.org).
-
-From time to time, I publish articles [http://thecrab.github.io](http://thecrab.github.io)
+Please get [in touch](mailto:nelson@ilinkoln.org)

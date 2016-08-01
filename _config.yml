@@ -9,8 +9,7 @@
 title: TheCrab
 email: mail@ilinkoln.org
 description: > # this means to ignore newlines until "baseurl:"
-  They ask why I walk. I just walk, sideways. That's all I do.
-  You can do everything. But you cannot ignore us.
+  They ask why I walk. I just walk, sideways. For the crazy ones.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thecrab.github.io" # the base hostname & protocol for your site
 twitter_username:
