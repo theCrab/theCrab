@@ -2,7 +2,7 @@
 layout: post
 title:  "Swara backend and api with Hanami"
 date:   2016-06-24 15:34:02 +0100
-categories: swara hanamirb api
+categories: 'swara hanamirb api'
 ---
 [Swara](https://itunes.apple.com/) is our **Mobile Card Payment** app. Currently its used mostly by **taxi drivers** taking payments for taxi fairs.
 

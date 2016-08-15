@@ -2,7 +2,7 @@
 layout: post
 title:  "Swara: iOS beta release"
 date:   2016-06-25 11:34:02 +0100
-categories: jobs ruby-jobs
+categories: 'Swara ios'
 ---
 [Swara](https://itunes.com): Mobile card payment iOS `version 0.1.2-beta`
 

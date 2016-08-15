@@ -3,7 +3,7 @@ layout: post
 title: 'RubyMotion: step-by-step to AppStore'
 date: 2016-07-10 15:00:00 +0100
 author: 'The Crab'
-categories: 'rubymotion, appstore, ios'
+categories: 'rubymotion ios'
 ---
 It takes a long time to develop an app. In RubyMotion, that time is kinda reduced in many ways.
 

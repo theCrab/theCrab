@@ -3,7 +3,7 @@ layout: post
 title:  "The Humble Readme and UI designs"
 date:   2016-07-07 15:00:00 +0100
 author: The Crab
-categories: writing software
+categories: 'writing'
 ---
 Writing software has had many different approaches. Software developer are not at best able to understand all the high language mumbo jumbo of selling the end product. We just need a [Readme](). Thats all.
 

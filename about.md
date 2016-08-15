@@ -12,7 +12,7 @@ permalink: /about/
   <small class="cv-hireable"><a href="mailto:nelson@safarista.com">Hire me, am available</a></small>
 </p>
 
-I was based in Purley, South East London. I mostly work online so I can live where I love.
+I am based in Purley, South East London. I mostly work online so I can live where I love.
 </div>
 
 #### Profile
@@ -23,7 +23,8 @@ Nelson Kelem is a:
 - open source software spirit sharer hoping to make sharing popular
 - an experienced web and iOS app developer and software enthusiast
 - tech-based community organiser ([iLinkoln](http://ilinkoln.org))
-- a dreamer and tinkerer with enterprising ideas
+- a dreamer and tinkerer with enterprising leanings
+- **a visual-centric software developer**
 
 #### Skills:
 I'm a full stack web developer, with a focus on backend systems. My key skills include among others:
@@ -33,7 +34,7 @@ I'm a full stack web developer, with a focus on backend systems. My key skills i
 - Vanilla Javascript, JQuery **(2009-present)** and AngularJS **(2013-present)**
 - Nodejs and Express framework **(2013-present)**
 - Objective-C, RubyMotion **(2014-present)**
-- TDD/BDD I honestly can not remember when I started testing, one of those things.
+- TDD/BDD I honestly can not remember when I started testing, its one of those things.
 
 Languages:- **Ruby** is my main go to (OO) language, **Nodejs** for real-time API's, **Elixir** is my current interest for functional language.
 
@@ -60,13 +61,19 @@ I've also contributed to: [Spree Commerce](http://spreecommerce.com) and [DataMa
 I founded the **iLinkoln Digital Meetup Group** in Lincoln. And organised the first ever **hackday** in Lincoln, besides running the group for almost 4 years.
 
 #### Work experience
-> My experience is mainly drawn from freelancing work and collaborations on Open Source Software projects. Largely they are backend systems.
+> My experience is mainly drawn from freelancing work and collaborations on Open Source Software projects. Largely they are backend systems. <br/>For the past 5 years I have worked at a digital agency focusing on the Rails side of things. Below are some apps I have worked on.
 
 #### Ruby and Ruby on Rails apps
-- [Bless Africa Tour & Safaris](http://bats.herokuapp.com/) African Safaris and Mt. Kilimanjaro hiking tours.
-- [Enterprise St Helena](http://esthelena.herokuapp.com/) is a platform for foreign investors to find info and help about investing in St. Helena Island commisioned by the Government of St Helena
-- [Fat Pheasant](http://fatpheasant.herokuapp.com/) is a personal CRM for unifying Hotmail, Google, Yahoo and Facebook contacts into one easy place for when you loose your phone. Unfinished
-- [Lincs Piper](http://lincspiper.co.uk/) is a directory like Gumtree. Unfinished personal quest.
+
+| Project | Dates | Technologies | Description |
+|:------- |:----- |:------------ |:----------- |
+| [Bless Africa Tours](http://bats.herokuapp.com/) | 2011-2014 | Rails 4.2, Postgres, Bootstrap, Javascript, Devise, Google Calendar | African Safaris and Mt. Kenya trekking tours company |
+| [Enterprise St Helena](http://esthelena.herokuapp.com/) | 2012-2015 | Rails 4.2, Elastic Search, Postgres, Bootstrap, Javascript, Forem, Devise | commissioned by Government of Saint Helena |
+| [Fat Pheasant](http://fatpheasant.herokuapp.com/) | 2010-present | Rails 3, Postgres, Javascript, Bootstrap | Personal Contacts unified Hotmail, Google, Yahoo and Facebook for when you loose your phone. WIP |
+| [Lincs Piper](http://lincspiper.co.uk/) | 2009-present | Rails 4, JQuery + Vanilla Javascript, Vanilla CSS | directory like Gumtree. Unfinished personal quest. |
+| [Property Piper](http://propertypiper.co.uk) | 2011 | Sinatra, SQLite, Google maps, Elastic Search | Property search engine WIP |
+| [Rails Piper](http://railspiper.com) | 2013-present | Sinatra, Postgres, Sorcery, Heroku | Ruby developers cv posting/search. |
+
 
 #### iOS (Objective-C) apps
 - [VanMan](http://paxiapp.uk/vanman) 2016 - Help Delivery drivers reduce dead mileage.

@@ -2,9 +2,8 @@
 layout: post
 title:  "Hanami version 0.8 validations"
 date:   2016-08-07 18:00:00 +0100
-categories: Ruby
+categories: 'Ruby Hanami'
 author: The Crab
-tags: hanami validations
 ---
 Hanami `version 0.8` has just been released. This version is major due to a number of reasons and features. I will be talking about just one, but the others are mostly bug fixes and improvements.
 
