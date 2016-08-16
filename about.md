@@ -65,14 +65,14 @@ I founded the **iLinkoln Digital Meetup Group** in Lincoln. And organised the fi
 
 #### Ruby and Ruby on Rails apps
 
-| Project | Dates | Technologies | Description |
-|:------- |:----- |:------------ |:----------- |
-| [Bless Africa Tours](http://bats.herokuapp.com/) | 2011-2014 | Rails 4.2, Postgres, Bootstrap, Javascript, Devise, Google Calendar | African Safaris and Mt. Kenya trekking tours company |
-| [Enterprise St Helena](http://esthelena.herokuapp.com/) | 2012-2015 | Rails 4.2, Elastic Search, Postgres, Bootstrap, Javascript, Forem, Devise | commissioned by Government of Saint Helena |
-| [Fat Pheasant](http://fatpheasant.herokuapp.com/) | 2010-present | Rails 3, Postgres, Javascript, Bootstrap | Personal Contacts unified Hotmail, Google, Yahoo and Facebook for when you loose your phone. WIP |
-| [Lincs Piper](http://lincspiper.co.uk/) | 2009-present | Rails 4, JQuery + Vanilla Javascript, Vanilla CSS | directory like Gumtree. Unfinished personal quest. |
-| [Property Piper](http://propertypiper.co.uk) | 2011 | Sinatra, SQLite, Google maps, Elastic Search | Property search engine WIP |
-| [Rails Piper](http://railspiper.com) | 2013-present | Sinatra, Postgres, Sorcery, Heroku | Ruby developers cv posting/search. |
+|  | Project | Dates | Technologies | Description |
+|:- |:------- |:----- |:------------ |:----------- |
+| 1 | [Bless Africa Tours](http://bats.herokuapp.com/) | 2011-2014 | Rails 4.2, Postgres, Bootstrap, Javascript, Devise, Google Calendar | African Safaris and Mt. Kenya trekking tours company |
+| 2 | [Enterprise St Helena](http://esthelena.herokuapp.com/) | 2012-2015 | Rails 4.2, Elastic Search, Postgres, Bootstrap, Javascript, Forem, Devise | commissioned by Government of Saint Helena |
+| 3 | [Fat Pheasant](http://fatpheasant.herokuapp.com/) | 2010-present | Rails 3, Postgres, Javascript, Bootstrap | Personal Contacts unified Hotmail, Google, Yahoo and Facebook for when you loose your phone. WIP |
+| 4 | [Lincs Piper](http://lincspiper.co.uk/) | 2009-present | Rails 4, JQuery + Vanilla Javascript, Vanilla CSS | directory like Gumtree. Unfinished personal quest. |
+| 5 | [Property Piper](http://propertypiper.co.uk) | 2011 | Sinatra, SQLite, Google maps, Elastic Search | Property search engine WIP |
+| 6 | [Rails Piper](http://railspiper.com) | 2013-present | Sinatra, Postgres, Sorcery, Heroku | Ruby developers cv posting/search. |
 
 
 #### iOS (Objective-C) apps
@@ -80,7 +80,7 @@ I founded the **iLinkoln Digital Meetup Group** in Lincoln. And organised the fi
 - [Spota](http://paxiapp.uk/spota) 2016 - Almost like Uber.
 - [Spoted](http://paxiapp.uk/spoted) 2016 - The driver-app for accepting jobs booked via **Spota**
 - [Swara](http://paxiapp.uk/swara) 2016 - Mobile card payment app
-- [Strop](http://getvene.com/) 2016 - Mobile dating app, built on Rails 5 backend, Backbone JS + Cordova
+- [Strop](http://paxiapp.uk/stropa) 2016 - Mobile dating app, built on Rails 5 backend, Backbone JS + Cordova
 - [Kutsh](http://kutsh.co.ke/) 2016 - **International Mobile** payment remittance
 
 I am in the process of writing the **Android** equivalent of some of the above apps.
