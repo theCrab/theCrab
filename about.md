@@ -67,7 +67,7 @@ I founded the **iLinkoln Digital Meetup Group** in Lincoln. And organised the fi
 
 |  | Project | Dates | Technologies | Description |
 |:- |:------- |:----- |:------------ |:----------- |
-| 1 | [Bless Africa Tours](http://bats.herokuapp.com/) | 2011-2014 | Rails 4.2, Postgres, Bootstrap, Javascript, Devise, Google Calendar | African Safaris and Mt. Kenya trekking tours company |
+| 1 | [Bless Africa Tours](http://bats.herokuapp.com/) | 2011-2014 | Rails 4.2, Postgres, Bootstrap, Javascript, Devise, Google Calendar | African Safaris and Mt. Kilimanjaro trekking tours company |
 | 2 | [Enterprise St Helena](http://esthelena.herokuapp.com/) | 2012-2015 | Rails 4.2, Elastic Search, Postgres, Bootstrap, Javascript, Forem, Devise | commissioned by Government of Saint Helena |
 | 3 | [Fat Pheasant](http://fatpheasant.herokuapp.com/) | 2010-present | Rails 3, Postgres, Javascript, Bootstrap | Personal Contacts unified Hotmail, Google, Yahoo and Facebook for when you loose your phone. WIP |
 | 4 | [Lincs Piper](http://lincspiper.co.uk/) | 2009-present | Rails 4, JQuery + Vanilla Javascript, Vanilla CSS | directory like Gumtree. Unfinished personal quest. |
