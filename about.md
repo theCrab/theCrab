@@ -71,7 +71,7 @@ I founded the **iLinkoln Digital Meetup Group** in Lincoln. And organised the fi
 | 2 | [Enterprise St Helena](http://esthelena.herokuapp.com/) | 2012-2015 | Rails 4.2, Elastic Search, Postgres, Bootstrap, Javascript, Forem, Devise | commissioned by Government of Saint Helena |
 | 3 | [Fat Pheasant](http://fatpheasant.herokuapp.com/) | 2010-present | Rails 3, Postgres, Javascript, Bootstrap | Personal Contacts unified Hotmail, Google, Yahoo and Facebook for when you loose your phone. WIP |
 | 4 | [Lincs Piper](http://lincspiper.co.uk/) | 2009-present | Rails 4, JQuery + Vanilla Javascript, Vanilla CSS | directory like Gumtree. Unfinished personal quest. |
-| 5 | [Property Piper](http://propertypiper.co.uk) | 2011 | Sinatra, SQLite, Google maps, Elastic Search | Property search engine WIP |
+| 5 | [Property Piper](http://propertypiper.com) | 2011 | Sinatra, SQLite, Google maps, Elastic Search | Property search engine WIP |
 | 6 | [Rails Piper](http://railspiper.com) | 2013-present | Sinatra, Postgres, Sorcery, Heroku | Ruby developers cv posting/search. |
 
 
