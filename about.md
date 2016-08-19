@@ -46,16 +46,22 @@ I'm an ardent advocate for Open Source dev and a contributor, author of among ot
 I've also contributed to: [Spree Commerce](http://spreecommerce.com) and [DataMapper 2](http://datamapper.org) among others and currently **[Hanami Web Framework](http://hanamirb.org)**.
 
 #### Tools
-- **Languages:** Ruby, MacRuby, Nodejs, Objective-C and Swift
-- **Languages with intermediate proficiency:** Elixir, Go, Redis
-- **Frameworks:** Hanami/Roda, Sinatra, Sails, Ruby on Rails
-- **Frameworks with intermediate proficiency:** Phoenix
-- **Mobile frameworks:** RubyMotion, Xcode, Ionic
+- **Backend development**
+  + **Languages:** Ruby, MacRuby, Nodejs, Objective-C
+  + **Languages with intermediate proficiency:** Elixir, Go, and Swift
+  + **Frameworks:** Rails, Hanami, Roda, Sinatra, Sails, Express
+  + **Frameworks with intermediate proficiency:** Phoenix
+- **Frontend development**
+  + **Web** HTML5, CSS3, Javascript, Dart
+  + **Web frameworks** BackboneJS, AngularJS, UIKIT CSS, Bootstrap CSS,
+  + **Mobile frameworks:** RubyMotion, Xcode, Ionic
 - **Testing suits:** TestUnit, RSpec + Capybara
+
+   I prefer using Capybara for frontend testing.
 - **Prototyping:** Photoshop, Illustrator, Bootstrap and [UIKIT CSS](http://getuikit.com)
 - **Preprocessors** Javascript (CoffeeScript and TypeScript), CSS (Sass, Grunt, Gulp)
-- **Databases:** Postgres, SQLite, Mongodb
-- **Technical Architecture and UML:** Unix (Ubuntu mainly) and OS X (macOS) and Git for version control
+- **Databases:** Postgres, SQLite, MongoDB, RethinkDB
+- **Architecture and UML:** Linux (Ubuntu mainly), OS X (macOS) and Git control
 
 #### Tech community work
 I founded the **iLinkoln Digital Meetup Group** in Lincoln. And organised the first ever **hackday** in Lincoln, besides running the group for almost 4 years.
@@ -63,25 +69,29 @@ I founded the **iLinkoln Digital Meetup Group** in Lincoln. And organised the fi
 #### Work experience
 > My experience is mainly drawn from freelancing work and collaborations on Open Source Software projects. Largely they are backend systems. <br/>For the past 5 years I have worked at a digital agency focusing on the Rails side of things. Below are some apps I have worked on.
 
-#### Ruby and Ruby on Rails apps
+#### Fullstack Web and API apps
 
-|  | Project | Dates | Technologies | Description |
-|:- |:------- |:----- |:------------ |:----------- |
+|  | Project | Timelines | Technologies | Description |
+|- |------- |----- |------------ |----------- |
 | 1 | [Bless Africa Tours](http://bats.herokuapp.com/) | 2011-2014 | Rails 4.2, Postgres, Bootstrap, Javascript, Devise, Google Calendar | African Safaris and Mt. Kilimanjaro trekking tours company |
 | 2 | [Enterprise St Helena](http://esthelena.herokuapp.com/) | 2012-2015 | Rails 4.2, Elastic Search, Postgres, Bootstrap, Javascript, Forem, Devise | commissioned by Government of Saint Helena |
 | 3 | [Fat Pheasant](http://fatpheasant.herokuapp.com/) | 2010-present | Rails 3, Postgres, Javascript, Bootstrap | Personal Contacts unified Hotmail, Google, Yahoo and Facebook for when you loose your phone. WIP |
 | 4 | [Lincs Piper](http://lincspiper.co.uk/) | 2009-present | Rails 4, JQuery + Vanilla Javascript, Vanilla CSS | directory like Gumtree. Unfinished personal quest. |
 | 5 | [Property Piper](http://propertypiper.com) | 2011 | Sinatra, SQLite, Google maps, Elastic Search | Property search engine WIP |
 | 6 | [Rails Piper](http://railspiper.com) | 2013-present | Sinatra, Postgres, Sorcery, Heroku | Ruby developers cv posting/search. |
+| 7 | [Waddington Taxis](http://WaddingtonTaxis.co.uk) | 2013-present | Rails 4.2 API, Devise, Backbone JS, PureCSS framework | Taxi booking app, dispatch app and driver app thats mobile friendly |
+| 8 | [Paxi Labs](http://paxiapp.com) | 2015-2016 | Hanami, Hanami-Fumikiri, Postgres, MongoDB, Google Firebase, Redis, OpenShift hosting, Apple/Google/MapBox Maps | Developed a number of API's plus iOS apps used privately and some awaiting launch in 2016 |
 
+#### Native and HTML5 hybrid mobile apps
 
-#### iOS (Objective-C) apps
-- [VanMan](http://paxiapp.uk/vanman) 2016 - Help Delivery drivers reduce dead mileage.
-- [Spota](http://paxiapp.uk/spota) 2016 - Almost like Uber.
-- [Spoted](http://paxiapp.uk/spoted) 2016 - The driver-app for accepting jobs booked via **Spota**
-- [Swara](http://paxiapp.uk/swara) 2016 - Mobile card payment app
-- [Strop](http://paxiapp.uk/stropa) 2016 - Mobile dating app, built on Rails 5 backend, Backbone JS + Cordova
-- [Kutsh](http://kutsh.co.ke/) 2016 - **International Mobile** payment remittance
+|  | Project | Timelines | Technologies | Description |
+| - | ------- | ----- | ------------ | ----------- |
+| 1 | [VanMan](http://paxiapp.uk/vanman) | 2015-2016 | iOS, RubyMotion, Objective-C, Apple Maps, Google Firebase, Sails (Nodejs) | Help Delivery drivers reduce dead mileage |
+| 2 | [Spota](http://paxiapp.uk/spota) | 2015-2016 | Sails-JS, Firebase + GeoFire, RubyMotion, OpenShift | - Almost like Uber.
+| 3 | [Spoted](http://paxiapp.uk/spoted) | 2015-2016 | RubyMotion, Apple Maps, CoreLocation | The driver-app for accepting jobs booked via **Spota**
+| 4 | [Swara](http://paxiapp.uk/swara) | 2015-2016 | RubyMotion, Stripe, Hanami | Mobile card payment app
+| 5 | [Strop](http://paxiapp.uk/stropa) | 2015-2016 | Rails, RubyMotion, CoreLocation, MongoDB | Mobile dating app
+| 6 | [Kutsh](http://kutsh.co.ke/) | 2013-2016 | Stripe, Ionic, Postgres, Rails 4.2 | **International Mobile** payment remittance
 
 I am in the process of writing the **Android** equivalent of some of the above apps.
 

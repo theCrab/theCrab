@@ -172,6 +172,16 @@ pre {
     }
 }
 
+table tbody td {
+    border-bottom: 1px solid #eee;
+    text-align: left;
+}
+
+table thead th {
+    padding-right: 10px;
+    border-bottom: 1px solid red;
+    text-align: left;
+}
 
 
 /**

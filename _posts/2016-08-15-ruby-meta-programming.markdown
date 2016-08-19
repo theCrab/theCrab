@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ruby meta-programming'
+title: 'Ruby method_missing'
 date: 2016-08-15 14:00:00 +0100
 author: 'The Crab'
 categories: 'ruby meta-programming'
