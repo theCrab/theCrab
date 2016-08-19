@@ -5,6 +5,8 @@ date: 2016-07-10 15:00:00 +0100
 author: 'The Crab'
 categories: 'rubymotion ios'
 ---
+> **UPDATE 17-08-2016:** HypBite have just released a very helpful gem [motion-provisioning](https://github.com/HipByte/motion-provisioning). Its job is to simplify provisioning for *iOs, tvOS and macOS (previously OS X)*
+
 It takes a long time to develop an app. In RubyMotion, that time is kinda reduced in many ways.
 
 There are many things that Xcode does behind the scenes that RubyMotion doesn't. I guess all those who use RM tend to have a fetish for control and writing everything in plain text. I share in that kink too.
@@ -43,7 +45,7 @@ require "rubygems"
 require 'bundler'
 Bundler.require
 
-env_vars = Dotenv.load
+Dotenv.load
 
 Motion::Project::App.setup do |app|
   app.name          = "Spõta"
