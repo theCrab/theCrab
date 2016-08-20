@@ -15,13 +15,67 @@ This feature solves a lot of the problems that we burden controllers/actions wit
 
 Take an example of a long running process, say you want to upload and process pictures or talk to an external api. This kind of process can easily take longer than an HTTP request is allowed. Lets see how we can avoid trouble without *monkey-jumping* around.
 
-```rb
-require 'hanami/interactor'
-require 'hanami/utils/file_util'
+#### Setup
+Depending on how you load your interactor. The directory structure I use looks like this:
 
-class ImageUploader
+**For all apps in the `apps/` directory** `lib/<APPNAME>/interactors/upload/upload.rb`. This way its required and included automatically project-wide.
+
+**For a specific app in the `apps/` directory** `lib/interactors/upload/upload.rb`. To load it in each app we need some more setup steps in each app:
+
+```rb
+  # apps/web/application.rb
+  # ...
+  load_paths << [
+    'controllers',
+    'views',
+    '../../lib/interactors'
+  ]
+  # ...
+```
+
+#### The Interactor
+Say we want to build an uploader that we can use all around. Lets get the base out of the way
+
+```rb
+# lib/interactors/upload/upload.rb
+require 'hanami/interactor'
+require 'hanami/utils/path_prefix'
+
+module Uploader
   include Hanami::Interactor
 
+  def initialize(tempfile, filename)
+    @tempfile, @filename = tempfile, dest_dir.join(filename).to_s
+    @uploaded_file_url = ''
+  end
+
+  def storage_location
+    FileUtils.mkdir_p(root.join('public/uploads'))
+  end
+
+  # Root path
+  def root
+    ::Application.configuration.root
+  end
+
+  def upload
+    begin
+      FileUtils.cp(@tempfile.path, @filename.to_s)
+    rescue => e
+      return e.backtrace.each { |msg| error(msg) }
+    ensure
+      @tempfile.close
+      @tempfile.unlink
+    end
+
+    @uploaded_file_url = Hanami::Utils::PathPrefix.new('uploads').join(@filename).to_s
+  end
+end
+
+# lib/interactors/upload/image.rb
+class ImageUploader
+  include Uploader
+  
   expose :image_url
 
   def initialize(params = {})

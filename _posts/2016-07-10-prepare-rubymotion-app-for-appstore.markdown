@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RubyMotion: step-by-step to AppStore'
+title: 'RubyMotion: step-by-step deploy to AppStore'
 date: 2016-07-10 15:00:00 +0100
 author: 'The Crab'
 categories: 'rubymotion ios'
