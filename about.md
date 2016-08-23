@@ -61,10 +61,10 @@ I've also contributed to: [Spree Commerce](http://spreecommerce.com) and [DataMa
 - **Prototyping:** Photoshop, Illustrator, Bootstrap and [UIKIT CSS](http://getuikit.com)
 - **Preprocessors** Javascript (CoffeeScript and TypeScript), CSS (Sass, Grunt, Gulp)
 - **Databases:** Postgres, SQLite, MongoDB, RethinkDB
-- **Architecture and UML:** Linux (Ubuntu mainly), OS X (macOS) and Git control
+- **Architecture and UML:** OS X (macOS), Linux (Ubuntu) and Git
 
 #### Tech community work
-I founded the **iLinkoln Digital Meetup Group** in Lincoln. And organised the first ever **hackday** in Lincoln, besides running the group for almost 4 years.
+I founded the **iLinkoln Digital Meetup Group** in Lincoln. And organised the first ever **hackday** in Lincoln, besides running the group for almost 4 years. I attend a number of hackathons mainly in the UK.
 
 #### Work experience
 > My experience is mainly drawn from freelancing work and collaborations on Open Source Software projects. Largely they are backend systems. For the past 5 years I have worked at a digital agency **(Safarista Design)**, where as a senior developer I focused on Ruby and Rails development. Below are some apps I have worked on.
