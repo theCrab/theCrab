@@ -62,7 +62,8 @@ module Uploader
     begin
       FileUtils.cp(@tempfile.path, @filename.to_s)
     rescue => e
-      return e.backtrace.each { |msg| error(msg) }
+      e.backtrace.each { |msg| error(msg) }
+      return
     ensure
       @tempfile.close
       @tempfile.unlink
@@ -75,7 +76,7 @@ end
 # lib/interactors/upload/image.rb
 class ImageUploader
   include Uploader
-  
+
   expose :image_url
 
   def initialize(params = {})
