@@ -67,7 +67,7 @@ I've also contributed to: [Spree Commerce](http://spreecommerce.com) and [DataMa
 I founded the **iLinkoln Digital Meetup Group** in Lincoln. And organised the first ever **hackday** in Lincoln, besides running the group for almost 4 years.
 
 #### Work experience
-> My experience is mainly drawn from freelancing work and collaborations on Open Source Software projects. Largely they are backend systems. For the past 5 years I have worked at a digital agency **(Safarista Design)**, focusing on the Rails side of things. Below are some apps I have worked on.
+> My experience is mainly drawn from freelancing work and collaborations on Open Source Software projects. Largely they are backend systems. For the past 5 years I have worked at a digital agency **(Safarista Design)**, where as a senior developer I focused on Ruby and Rails development. Below are some apps I have worked on.
 
 #### Fullstack Web and API apps
 
