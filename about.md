@@ -47,17 +47,17 @@ I've also contributed to: [Spree Commerce](http://spreecommerce.com) and [DataMa
 
 #### Tools
 - **Backend development**
-  + **Languages:** Ruby, MacRuby, Nodejs, Objective-C
-  + **Languages with intermediate proficiency:** Elixir, Go, and Swift
+  + **Languages:** Ruby, MacRuby, Nodejs
+  + **Languages with intermediate proficiency:** Elixir, Go
   + **Frameworks:** Rails, Hanami, Roda, Sinatra, Sails, Express
   + **Frameworks with intermediate proficiency:** Phoenix
 - **Frontend development**
-  + **Web** HTML5, CSS3, Javascript, Dart
+  + **Web** HTML5, CSS3, Javascript, Dart, Objective-C
   + **Web frameworks** BackboneJS, AngularJS, UIKIT CSS, Bootstrap CSS,
   + **Mobile frameworks:** RubyMotion, Xcode, Ionic
 - **Testing suits:** TestUnit, RSpec + Capybara
 
-   I prefer using Capybara for frontend testing.
+   I prefer using RSpec with Capybara for frontend integration testing in place of Cucumber.
 - **Prototyping:** Photoshop, Illustrator, Bootstrap and [UIKIT CSS](http://getuikit.com)
 - **Preprocessors** Javascript (CoffeeScript and TypeScript), CSS (Sass, Grunt, Gulp)
 - **Databases:** Postgres, SQLite, MongoDB, RethinkDB
