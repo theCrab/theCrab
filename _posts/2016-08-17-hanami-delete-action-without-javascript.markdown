@@ -72,7 +72,7 @@ Its relatively straightforward. Now we just need to setup our route to:
 And this should work with or without Javascript. Now you just need to use a form to post to this action.
 
 ```rb
-  form_for post, routes.post_path(post.id), method: :delete, class: 'uk-form' do
+  form_for post, routes.post_path(id: post.id), method: :delete, class: 'uk-form' do
     submit 'Destroy', class: 'uk-button uk-button-danger'
   end
 ```
