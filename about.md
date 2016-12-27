@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CV
+excerpt: 'Curriculum Vitae or Resume for Nelson Kelem. A Ruby and Fullstack developer based in UK.'
 permalink: /about/
 ---
 <div class="cv-header clearfix">
@@ -18,6 +19,7 @@ I am based in Purley, South East London. I mostly work online so I can live wher
 #### Profile
 Nelson Kelem is a:
 
+- code optimiser and problem solver or critical thinker
 - software developer and code experimenter (Ruby, JavaScript and Erlang primarily)
 - avid reader of many programming and CS books
 - open source software spirit sharer hoping to make sharing popular
